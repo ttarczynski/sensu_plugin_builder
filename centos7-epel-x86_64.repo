@@ -1,0 +1,5 @@
+[centos7-epel-x86_64]
+name=CentOS 7 EPEL x86_64 repo
+baseurl=http://pulp1.blue/pulp/repos/centos/7/epel/x86_64/
+enabled=1
+gpgcheck=1
