@@ -2,7 +2,7 @@
 
 RPM building container - current tag: ttarczynski/sensu_plugin_builder:0.6
 
-Project: https://github.com/sstarcher/docker-sensu
+Project: https://github.com/ttarczynski/sensu_plugin_builder
 
 Docker image: https://hub.docker.com/r/ttarczynski/sensu_plugin_builder/
 
